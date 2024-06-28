@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThraTZwMWhwcGxjcWVsYmxiZWlzNnBmajdlMHduZXZkNmRtandsdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width=100/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU3amtxcjk0MWQ3MngzY2FtMTlvam94emlyMXUzdmcybzdnZGVuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width=100/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ishita-pathak-107904220/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
