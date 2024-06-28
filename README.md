@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/en-GB/view/work-office-computer-penguin-job-gif-10013904041284194281" width="100"/>
+  <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ishita-pathak-107904220/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
